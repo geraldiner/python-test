@@ -1,0 +1,18 @@
+number,author,body,permalink,score
+number,author,body,permalink,score
+1,Thatweebthatsimps,Shape of water,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9fsn/,17
+2,Brenvt19,Children of men 
+
+Last of the Mohicans 
+
+Mars Attacks,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9iqh/,118
+3,Feelingofsunday,I haven't seen that one! I'll have to check it out!,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9k00/,1
+4,Feelingofsunday,Mars Attacks is awesome! :D,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9liq/,45
+5,redpatchedsox,The Secret Life of Walter Mitty,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9uj9/,362
+6,domicilecc,The Dark Knight Returns pt 1/2 (it's really one movie)
+
+The best comic adaptation ever made, live action or animated.  It's pitch perfect.,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9vxs/,9
+7,Feelingofsunday,That movie has been on my list of movies I want to watch, but I haven't gotten around to it yet!,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvl9ylf/,33
+8,NomadSVP,Dragonheart,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvla0kj/,160
+9,bob-weeaboo,That the one where a lady floods her house for some fish dick?,https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvla27e/,16
+10,HilpoWuXing,Chicken Run (2000),https://reddit.com//r/AskReddit/comments/mx0pwd/what_movie_is_simply_magical_to_you_no_matter_how/gvla38q/,909
