@@ -1,5 +1,5 @@
 # Python Test
-Starting to learn Python to figure out how to handle my Magical Movies project.
+I started to learn more Python to figure out how to handle my Magical Movies project.
 
 tldr; I want to take the list of magical movies as suggested by Redditors, watch them, and see how 'magical' they actually turn out to be.
 
