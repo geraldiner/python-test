@@ -8,6 +8,7 @@ I went through a VS Code tutorial to set up a Python environment in VS Code, whi
 Then I extended what I'd previously learned to process initial information via [Pushshift](https://pushshift.io). With Pushshift, I was able to get the IDs for every comment on the thread I was interested in, and get the information about those comments, and save them in a `txt` file. However, I don't think it's in any form for me to do any real processing for finding the actual movie titles.
 
 This led me to try out a [textual analysis tutorial](https://github.com/geraldiner/textual-analysis) to see if it might be something for my project
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -19,5 +20,3 @@ Check out other stuff I've worked on:
 **Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Interactive Piano:** https://github.com/geraldiner/piano
