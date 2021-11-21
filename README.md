@@ -10,6 +10,7 @@ Then I extended what I'd previously learned to process initial information via [
 This led me to try out a [textual analysis tutorial](https://github.com/geraldiner/textual-analysis) to see if it might be something for my project
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
